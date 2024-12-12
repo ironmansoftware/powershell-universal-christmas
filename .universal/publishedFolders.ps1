@@ -1,0 +1,1 @@
+﻿New-PSUPublishedFolder -RequestPath "/custom-images" -Path "images" -Name "Images"

@@ -1,0 +1,1 @@
+﻿New-PSUApp -Name "Holiday Gift List" -FilePath "dashboards\Holiday Gift List\Holiday Gift List.ps1" -BaseUrl "/gift-list" -Authenticated -AutoDeploy
